@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Architect.Cli/Architect.Cli.csproj" />
+    <Project Path="src/Architect.Core/Architect.Core.csproj" />
+    <Project Path="src/Architect.Generator/Architect.Generator.csproj" />
+  </Folder>
+</Solution>

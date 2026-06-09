@@ -1,0 +1,22 @@
+{
+    "solutionTemplate": "{ProjectName}",
+
+    "projects": [
+        {
+            "name": "{ProjectName}.Api",
+            "template": "webapi"
+        },
+        {
+            "name": "{ProjectName}.Application",
+            "template": "classlib"
+        },
+        {
+            "name": "{ProjectName}.Domain",
+            "template": "classlib"
+        },
+        {
+            "name": "{ProjectName}.Infrastructure",
+            "template": "classlib"
+        }
+    ]
+}
